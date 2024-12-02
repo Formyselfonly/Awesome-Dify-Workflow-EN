@@ -7,7 +7,7 @@ This is for workflow in Dify
 1. Step1
    Find workflow that you need in Workflow-Store,the dsl file name,photo description are all in here.
 2. Step2
-   Find dsl file  by name in DSL folder
+   Find dsl file  by name in Workflow-Store folder
 3. Step3
 
 ![snap](./snapshots/Xnip2024-07-16_12-45-29.jpg)
