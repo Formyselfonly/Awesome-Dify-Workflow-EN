@@ -6,12 +6,21 @@ This is for workflow in Dify
 
 1. Step1
    Download my project(Actually You can just download Workflow-Store folder,that is all you need)
+   
 2. Step2
    Find workflow that you need in Workflow-Store,the dsl file name,photo description are all in here.
+   
 3. Step3
    Find dsl file  by name in Workflow-Store folder,and import in your dify.
+   ![snap](D:\Pictures\Saved Pictures\typora\Xnip2024-07-16_12-45-29.jpg)
+   
+4. Step4
 
-![snap](./snapshots/Xnip2024-07-16_12-45-29.jpg)
+   Here you can change something,such as change the model from deepseek-chat to gpt-4o-mini one by one.After you edit,click publish.
+   Than you can click run to test!
+   Additional,you can click API Access to call this workflow by your code,or provide the API link and doc to other.
+
+
 
 # Workflow-Store
 
