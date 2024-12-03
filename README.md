@@ -2,7 +2,7 @@
 
 ## Usage
 
-This is for workflow in Dify
+This is free workflow store for Dify,you can find the workflow you need in here.
 
 1. Step1
    Download my project(Actually You can just download Workflow-Store folder,that is all you need)
@@ -12,7 +12,7 @@ This is for workflow in Dify
    
 3. Step3
    Find dsl file  by name in Workflow-Store folder,and import in your dify.
-   ![snap](D:\Pictures\Saved Pictures\typora\Xnip2024-07-16_12-45-29.jpg)
+   ![snap](./snapshots/Xnip2024-07-16_12-45-29-1733191629181.jpg)
    
 4. Step4
 
