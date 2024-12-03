@@ -5,10 +5,12 @@
 This is free workflow store for Dify,you can find the workflow you need in here.
 
 1. Step1
-   Download my project(Actually You can just download Workflow-Store folder,that is all you need)
+   Download my project
+   (Actually You can just download Workflow-Store folder,that is all you need)
    
 2. Step2
-   Find workflow that you need in Workflow-Store,the dsl file name,photo description are all in here.
+   Find workflow that you need.
+   In Workflow-Store,the dsl file name,photo description are all in here.
    
 3. Step3
    Find dsl file  by name in Workflow-Store folder,and import in your dify.
