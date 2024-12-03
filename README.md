@@ -28,32 +28,6 @@ This is free workflow store for Dify,you can find the workflow you need in here.
 
 You can refer to the description of each yml below to find the Workflow you need, then locate the corresponding file in the DSL folder, copy the file's URL, and import it into your Dify account.
 
-
-
-| File | Description | Source |
-| ---- | ----------- | ------ |
-| `matplotlib.yml` | Use matplotlib for plotting, output images as base64, and render through replies. Note: Official sandbox has complex permissions, matplotlib won't work even after installation. Please use [dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ![](./snapshots/Xnip2024-11-21_09-35-09.jpg) | WeChat @svcvit |
-| `jieba.yml` | Jieba word segmentation example, please use [dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ![](./snapshots/Xnip2024-11-22_13-44-07.jpg) | WeChat @svcvit |
-
-| File | Description | Source |
-| ---- | ----------- | ------ |
-| `json-repair.yml` | Fix non-standard JSON output from large models (missing quotes, extra brackets) into parseable JSON ![](./snapshots/Xnip2024-11-20_09-45-48.jpg) | WeChat @svcvit |
-
-
-
-| File | Description | Source |
-| ---- | ----------- | ------ |
-| `json_translate.yml` | Parse content for translation in JSON, use iterator for translation, and combine into new JSON while maintaining original structure ![](./snapshots/Xnip2024-11-15_18-16-26.jpg) | WeChat @svcvit |
-
-
-
-| File | Description | Sourc |
-| ---- | ----------- | ------ |
-| `FormChat.yml`   | Access to models after logging in through dialog box ![](./snapshots/Xnip2024-11-12_10-47-42.jpg) | WeChat @svcvit |
-| `chart_demo.yml` | Render charts through reply content. You can also combine with SQL queries to generate required content ![](./snapshots/Xnip2024-11-14_15-17-39.jpg) | WeChat @svcvit |
-
-
-
 ## Translation
 
 | File | Description | Source |
@@ -94,6 +68,36 @@ You can refer to the description of each yml below to find the Workflow you need
 | File | Description | Source |
 | ---- | ----------- | ------ |
 | `Python Coding Prompt.yml` | Generate Python code through chat dialogue | [Sonnet 3.5 for Coding 😍 - System Prompt](https://www.reddit.com/r/ClaudeAI/comments/1dwra38/sonnet_35_for_coding_system_prompt/) |
+
+## Other
+
+
+
+| File             | Description                                                  | Source         |
+| ---------------- | ------------------------------------------------------------ | -------------- |
+| `matplotlib.yml` | Use matplotlib for plotting, output images as base64, and render through replies. Note: Official sandbox has complex permissions, matplotlib won't work even after installation. Please use [dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ![](./snapshots/Xnip2024-11-21_09-35-09.jpg) | WeChat @svcvit |
+| `jieba.yml`      | Jieba word segmentation example, please use [dify-sandbox-py](https://github.com/svcvit/dify-sandbox-py) ![](./snapshots/Xnip2024-11-22_13-44-07.jpg) | WeChat @svcvit |
+
+| File              | Description                                                  | Source         |
+| ----------------- | ------------------------------------------------------------ | -------------- |
+| `json-repair.yml` | Fix non-standard JSON output from large models (missing quotes, extra brackets) into parseable JSON ![](./snapshots/Xnip2024-11-20_09-45-48.jpg) | WeChat @svcvit |
+
+
+
+| File                 | Description                                                  | Source         |
+| -------------------- | ------------------------------------------------------------ | -------------- |
+| `json_translate.yml` | Parse content for translation in JSON, use iterator for translation, and combine into new JSON while maintaining original structure ![](./snapshots/Xnip2024-11-15_18-16-26.jpg) | WeChat @svcvit |
+
+
+
+| File             | Description                                                  | Sourc          |
+| ---------------- | ------------------------------------------------------------ | -------------- |
+| `FormChat.yml`   | Access to models after logging in through dialog box ![](./snapshots/Xnip2024-11-12_10-47-42.jpg) | WeChat @svcvit |
+| `chart_demo.yml` | Render charts through reply content. You can also combine with SQL queries to generate required content ![](./snapshots/Xnip2024-11-14_15-17-39.jpg) | WeChat @svcvit |
+
+
+
+## 
 
 # Thanks to
 
